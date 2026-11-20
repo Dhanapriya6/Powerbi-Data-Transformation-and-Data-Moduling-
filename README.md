@@ -2,7 +2,9 @@
 
 ## 📌 Project Overview
 
-This project focuses on **Data Transformation and Data Modeling using Microsoft Power BI**. The objective is to prepare, organize, and structure multiple datasets to create a meaningful data model for business analysis.
+This project focuses on **Data Transformation and Data Modeling using Microsoft Power BI**.
+
+The objective is to prepare, organize, and structure multiple datasets to create a meaningful data model for business analysis.
 
 The project demonstrates the use of Power BI and Power Query to work with multiple tables and prepare data for reporting and visualization.
 
@@ -24,7 +26,7 @@ The project demonstrates the use of Power BI and Power Query to work with multip
 
 ## 📂 Tables Used in the Project
 
-The Power BI data model contains the following tables:
+The Power BI data model contains six tables:
 
 1. Sales Target
 2. Order Details
@@ -35,23 +37,53 @@ The Power BI data model contains the following tables:
 
 ## 🔄 Project Workflow
 
-**Step 1: Data Import**
+### Step 1: Data Import
 - Import the required datasets into Power BI.
 - Load multiple tables into Power Query.
 
-**Step 2: Data Transformation**
+### Step 2: Data Transformation
 - Explore the imported datasets.
 - Prepare the tables for analysis.
 - Apply necessary data transformation steps.
 
-**Step 3: Data Modeling**
+### Step 3: Data Modeling
 - Organize multiple tables in Model View.
 - Explore relationships between tables.
 - Structure the data model for analysis.
 
-**Step 4: Data Preparation**
+### Step 4: Data Preparation
 - Prepare transformed tables.
 - Organize the model for future reporting and visualization.
+
+---
+
+## 📸 Project Screenshots
+
+### 1. Power Query Editor – Data Import
+
+This screenshot shows the Power Query Editor with imported datasets and table previews.
+
+![Power Query Editor](images/power-query-editor.png)
+
+### 2. Data Transformation
+
+Preparing and organizing the imported datasets using Power Query Editor.
+
+![Data Transformation](images/data-transformation.png)
+
+### 3. Power BI Model View
+
+This screenshot shows the six tables organized in Power BI Model View.
+
+![Power BI Model View](images/power-bi-model-view.png)
+
+### 4. Table Relationships
+
+This screenshot demonstrates the Manage Relationships window in Power BI.
+
+![Table Relationships](images/table-relationships.png)
+
+---
 
 ## 💡 Key Learning Outcomes
 
@@ -62,22 +94,17 @@ The Power BI data model contains the following tables:
 - Working with multiple datasets and tables.
 - Understanding table relationships.
 
-## 📸 Project Screenshots
-
-Add your Power BI screenshots here:
-
-- Power Query Editor
-- Data Transformation
-- Power BI Model View
-- Table Relationships
-
 ## 📁 Project File
 
-`Data Transformation and Data moduling in Powerbi.pbix`
+**Power BI Project:** `Data Transformation and Data moduling in Powerbi.pbix`
 
 ## 🚀 Conclusion
 
-This project helped me strengthen my practical knowledge of Power BI, data transformation, and data modeling. It is an important step in my journey toward becoming a Data Analyst.
+This project helped me strengthen my practical knowledge of Power BI, data transformation, and data modeling.
+
+It is an important step in my learning journey toward becoming a Data Analyst.
+
+---
 
 ## 👩‍💻 Author
 
@@ -87,8 +114,9 @@ Aspiring Data Analyst | BCA & MCA Graduate
 
 Currently pursuing AI-Driven Data Analytics.
 
-📌 Skills: Excel | SQL | Power BI | Python | Data Analytics
-
----
+**Skills:** Excel | SQL | Power BI | Python | Data Analytics
 
 ⭐ If you find this project useful, feel free to explore and connect with me on LinkedIn!
+---
+power-bi data-analytics power-query data-transformation data-modeling microsoft-power-bi
+
