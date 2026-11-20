@@ -63,25 +63,29 @@ The Power BI data model contains six tables:
 
 This screenshot shows the Power Query Editor with imported datasets and table previews.
 
-![Power Query Editor](images/power-query-editor.png)
+<img width="940" height="497" alt="image" src="https://github.com/user-attachments/assets/cee4970a-d051-44ae-98d9-f0bbbcd56ad7" />
+
 
 ### 2. Data Transformation
 
 Preparing and organizing the imported datasets using Power Query Editor.
 
-![Data Transformation](images/data-transformation.png)
+<img width="940" height="503" alt="image" src="https://github.com/user-attachments/assets/93f7d845-fd45-4d7f-a896-d76fbdf6a684" />
+
 
 ### 3. Power BI Model View
 
 This screenshot shows the six tables organized in Power BI Model View.
 
-![Power BI Model View](images/power-bi-model-view.png)
+<img width="940" height="494" alt="image" src="https://github.com/user-attachments/assets/1589d9de-f15a-4218-835e-f5c9b893b5ec" />
+
 
 ### 4. Table Relationships
 
 This screenshot demonstrates the Manage Relationships window in Power BI.
 
-![Table Relationships](images/table-relationships.png)
+<img width="941" height="503" alt="image" src="https://github.com/user-attachments/assets/d282d157-5bfa-4c57-869c-73f4c89e05ad" />
+
 
 ---
 
